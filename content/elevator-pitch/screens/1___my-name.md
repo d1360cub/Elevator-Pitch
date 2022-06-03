@@ -1,9 +1,9 @@
-# Hi, my name is Cristian Moreno.
+# Hi, my name is Diego Cubides.
 
-FullStack Javascript Developer and Community builder 👨🏻‍💻🤝 👨🏻‍🏫
+FullStack Web Developer 👨🏻‍💻🤝
 
-Producer [@commitfm](https://twitter.com/commitfm) 🎙📻
+Electronic Engineer [@commitfm](https://twitter.com/commitfm) 🎙📻
 
-Co-Organize of [@MedellinJS](https://twitter.com/medellinjs) [@avanet](https://twitter.com/avanet)
+Masters in Energetic Efficiency [@MedellinJS](https://twitter.com/medellinjs) [@avanet](https://twitter.com/avanet)
 
-Javascript Developer Avocado 🥑
+Javascript Developer Avocado 🥑 :smile:

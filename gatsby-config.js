@@ -2,18 +2,16 @@ require('dotenv').config();
 
 module.exports = {
   siteMetadata: {
-    title: 'khriztianmoreno | FullStack Javascript Developer 👨🏼‍💻👨🏼‍🏫| Producer @commitfm🎙📻',
+    title: 'd13060cub | FullStack Web Developer 👨🏼‍💻',
     url: 'https://khriztianmoreno.dev',
     image: 'https://khriztianmoreno.com/img/profile.jpg',
     language: 'en',
-    description: 'FullStack Javascript Developer and Community builder | Producer @commitfm | Co-Organize of @MedellinJS @avanet.',
+    description: 'FullStack Web Developer',
     socialLinks: {
-      github: 'https://github.com/khriztianmoreno',
-      twitter: 'https://twitter.com/khriztianmoreno',
-      facebook: 'https://facebook.com/khriztianmoreno',
-      youtube: 'https://youtube.com/khriztianmoreno',
+      github: 'https://github.com/d1360cub',
+      linkedin: 'https://www.linkedin.com/in/diegocubides/',
       web: 'https://khriztianmoreno.com',
-      mailto: 'mailto:khriztianmoreno@gmail.com',
+      mailto: 'mailto:diegofernandocubides@gmail.com',
     },
   },
   plugins: [

@@ -1,3 +1,3 @@
-# I'm a FullStack Javascript Developer 👨🏻‍💻
+# I'm a FullStack Developer 👨🏻‍💻
 
-On a daily basis I use: JavaScript (ES6), React, Gatsby, CSS (inJS), GraphQL, just to name the most important bits.
+On a daily basis I use: JavaScript (ES6), React, Node.js, CSS (inJS), MongoDb, just to name the most important bits.
